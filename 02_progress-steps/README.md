@@ -7,7 +7,7 @@ checkouts, a step completion tracker, and much more.
 
 ## Visual
 
-!["Progress Steps"]()
+!["Progress Steps"](https://github.com/SJ-WJ/50-projects/blob/main/02_progress-steps/docs/progress-steps.gif)
 
 ## Getting Started
 
