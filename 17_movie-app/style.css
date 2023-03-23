@@ -104,6 +104,6 @@ main {
   transition: transform 0.3s ease-in;
 }
 
-.movies:hover {
+.movies:hover .overview {
   transform: translateY(0);
 }
